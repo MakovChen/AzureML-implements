@@ -73,3 +73,4 @@
 ![](https://i.imgur.com/tjLWhHw.png)
 
 ### 實驗流程
+(等AoI做完)
