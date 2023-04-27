@@ -73,4 +73,4 @@
 ![](https://i.imgur.com/tjLWhHw.png)
 
 ### 實驗流程
-(等AoI做完)
+(等`AoI Workshop`做得差不多再寫)
